@@ -16,12 +16,6 @@
 
 #### 2、🔥🔥🔥我把自己秋招时的学习笔记开源并做成一个网站了，适用于计算机校招应届生以及毕业三年之内的社招求职党，<a href="https://interviewguide.cn/#/" target="_blank">点我直达</a>
 
->简单附赠两个云服务器优惠信息：
->
->【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
->
->【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
-
 #### 3、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
 #### 4、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
@@ -33,10 +27,6 @@
 <div align=left>
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的：网址kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
       如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
-<figure class="half" align="center">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 40%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 40%;" />
-                                                                                                                         </figure></div>
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
